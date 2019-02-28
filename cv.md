@@ -1,9 +1,9 @@
-
+![profile photo](http://kemal.kz/img/proger.jpg)  
 # Kemalkhan Shlembayev 
 -*phone:* +7 777 7180029  
 -*email:* <kemalsh771@gmail.com>  
 -*LinkedIn:* [https://www.linkedin.com/in/kemalkhan-shlembayev](https://www.linkedin.com/in/kemalkhan-shlembayev)  
-
+-*GitHub:* [https://github.com/Slider7](https://github.com/Slider7)
 
 ----------
 
