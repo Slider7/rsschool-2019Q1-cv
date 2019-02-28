@@ -24,11 +24,10 @@ I want to apply for the position of a Front-end developer because that gives me 
 ### SB Sberbank JSC in Almaty region, Taldykorgan
 ***Head of IT Sector***  
 *Leading IT Specialist (July 2009 - March 2014), from March 2014 - Head of IT Sector,*  
-Maintenance of programs and equipment (bank's IS, network, user support), installation/configuration/maintenance of ATMs and
-terminals, Internet banking support.
+Maintenance of programs and equipment (bank's IS, network, user support), installation/configuration/maintenance of ATMs and terminals, Internet banking support.
 ### Taldykorgan branch of JSC "BTA-Bank", Taldykorgan
 ***Chief IT Specialist***  
-Administration of the IBS system - working with users, implementing rollbacks/changes, programming forms/reports (PL / SQL). 
+Administration of the IBS system - user administration, implementing rollbacks/changes, programming forms/reports (PL / SQL). 
 Win2003 domain controller, support of work of a network, technical support users.  
 ### Institute "Zhetysu", Taldykorgan
 ***Director of the Center for IT and Testing, Senior Lecturer***  
