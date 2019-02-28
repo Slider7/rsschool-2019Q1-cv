@@ -33,3 +33,13 @@ Win2003 domain controller, support of work of a network, technical support users
 ***Director of the Center for IT and Testing, Senior Lecturer***  
 Automation of student payment accounting, development of a multi-user testing system (client-server) to automate examinations (Delphi + InterBase), teaching in the specialty "Information systems".
 
+## Education  
+### Zhetysu State University named after I.Zhansugurov, Taldykorgan
+***physic-mathematical, computer science math***
+#### freeCodeCamp, [https://www.freecodecamp.org/](https://www.freecodecamp.org/)
+*certificates:*  
+- [*2018 freeCodeCamp JavaScript Algorithms and Data Structures*](https://www.freecodecamp.org/certification/slider7/javascript-algorithms-and-data-structures)  
+- [*2016 freeCodeCamp Front End Development legacy certification*](https://www.freecodecamp.org/certification/slider7/legacy-front-end)
+
+## Additional Information  
+**English level:** *pre-Intermediate*, reading, listening and translation of English reviews, manuals, technical documentation.
