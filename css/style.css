@@ -1,0 +1,34 @@
+body{
+  width: 1024px;
+  color: #fafafa;
+  padding: 0;
+  margin: 0 auto;
+  font-family: 'Lato', 'Sans Serif';
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../assets/fonts/Lato/Lato-Regular.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../assets/fonts/Lato/Lato-Bold.ttf')  format('truetype');
+	font-weight: 700;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../assets/fonts/Lato/Lato-Black.ttf')  format('truetype');
+	font-weight: 900;
+}
+
+@font-face {
+  font-family: 'Material Icons';
+  font-style: normal;
+  font-weight: 400;
+  src: url("../assets/fonts/material-icons.woff2") format('woff2');
+}
+
+header, main, footer{
+  background-color: #323232;
+  padding: 12px;
+}
