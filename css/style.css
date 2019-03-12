@@ -21,13 +21,6 @@
 	font-weight: 900;
 }
 
-@font-face {
-  font-family: 'Material Icons';
-  font-style: normal;
-  font-weight: 400;
-  src: url("../assets/fonts/material-icons.woff2") format('woff2');
-}
-
 header, main, footer{
   background-color: #323232;
   padding: 0 30px;
@@ -74,8 +67,15 @@ a:hover{
 header ul{
   margin-top: 12px;
   list-style-type: none;
-  text-align: right;
 }
+.icon{
+	display: inline-block;
+	width: 35px;
+}	
+.github{
+  font-size: 10px;	
+}
+
 .left-side{
   width: 25%;
 }
