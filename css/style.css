@@ -1,0 +1,101 @@
+ body{
+  width: 1024px;
+  color: #8a8a8a;
+  padding: 0;
+  margin: 0 auto;
+  font-family: 'Lato', 'Sans Serif';
+}
+
+@font-face {
+  font-family: 'Lato';
+  src: url('../assets/fonts/Lato/Lato-Regular.ttf')  format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../assets/fonts/Lato/Lato-Bold.ttf')  format('truetype');
+	font-weight: 700;
+}
+@font-face {
+  font-family: 'Lato';
+  src: url('../assets/fonts/Lato/Lato-Black.ttf')  format('truetype');
+	font-weight: 900;
+}
+
+header, main, footer{
+  background-color: #323232;
+  padding: 0 30px;
+}
+
+section{
+  display: flex;
+}
+
+a{
+  color:  #fdfdfd;
+}
+a:hover{
+  color:  #25f1c0;
+  text-decoration: none;  
+}
+
+.profile-header{
+  display: flex;
+  justify-content: space-between;
+  padding: 24px 0px;
+  color: #fdfdfd;
+}
+
+.profile-header img{
+  border-radius: 50%;
+}
+.photo-and-name{
+  display: flex;
+  flex-direction: row;
+}
+.profile-name{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 12px;
+}
+.profile-name h1, h2{
+  margin: 0;
+}
+.profile-name h2{
+  font-weight: 400;
+}
+header ul{
+  margin-top: 12px;
+  list-style-type: none;
+}
+.icon{
+	display: inline-block;
+	width: 35px;
+}	
+.github{
+  font-size: 10px;	
+}
+
+.left-side{
+  width: 25%;
+}
+.section-title{
+  color: #25f1c0;
+}
+
+.right-side{
+  width: 75%;
+}
+
+.right-side h3, h4{
+  color: #fdfdfd;
+  margin: 4px 0px 6px 0px;
+}
+.right-side h4{
+  font-style: italic;
+  font-weight: 400;
+}
+.right-side p{
+  margin: 6px 0px 20px 0px;
+}
+
